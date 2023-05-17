@@ -1,0 +1,4 @@
+.pie {
+    @apply shadow bg-gradient-to-r from-pink-500 bg-purple-500 h-md text-xs text-right pr-2 text-white relative;
+}
+
